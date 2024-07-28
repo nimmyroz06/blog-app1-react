@@ -38,7 +38,6 @@ const SignIn = () => {
 
                     navigate("/create")
                 }
-
             }
         ).catch(
             (error)=>{
@@ -73,5 +72,4 @@ const SignIn = () => {
     </div>
   )
 }
-
 export default SignIn
