@@ -38,7 +38,10 @@ const SignIn = () => {
 
                     navigate("/create")
                 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 67589284e59ec4bcfcfbc12322e52b6a34bd0138
             }
         ).catch(
             (error)=>{
